@@ -1,1 +1,3 @@
-# GenAI_Project_mail_generator
+# Smart_Sales_Email_Generator
+
+This project
